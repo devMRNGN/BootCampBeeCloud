@@ -1,4 +1,4 @@
-# Bootcamp beeCloud  content
+# Bootcamp beeCloud APEX content
 
 * Conteudo adquirido participando do bootcamp da beeCloud
 * Um pouco sobre java e a plataforma "SalesForce"
